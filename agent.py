@@ -80,5 +80,6 @@ def run_agent():
 
 print("now you understand the Agent")
 print("talk you again")
+print(" byee")
 if __name__ == "__main__":
     run_agent()
