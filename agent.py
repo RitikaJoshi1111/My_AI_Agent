@@ -40,7 +40,8 @@ No explanation. No punctuation. Just one word."""
     reply = reply.split()[0].replace(".", "").replace(",", "")
     return reply
 
-
+print("welcome to the AI number Agent!")
+print("Powered by Ollama and Gemma")
 def run_agent():
     number = int(input("Enter a starting number: "))
     iteration = 0
