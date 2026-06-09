@@ -78,5 +78,7 @@ def run_agent():
     print("\nDone! Run again: python agent.py")
 
 
+print("now you understand the Agent")
+print("talk you again")
 if __name__ == "__main__":
     run_agent()
