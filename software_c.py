@@ -7,3 +7,4 @@ def run(number):
     result = round(math.sqrt(number), 2)
     print(f"  [C - Sqrt] sqrt({number}) = {result}")
     return result
+print("Done")
