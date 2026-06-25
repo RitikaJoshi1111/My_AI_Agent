@@ -4,3 +4,4 @@ def run(number):
     return result
 print("ok")
 prit
+()
