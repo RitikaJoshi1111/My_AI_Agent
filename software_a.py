@@ -4,4 +4,3 @@ def run(number):
     return result
 print("ok")
 dkejb/d.d,mvb
-duiiewefjlh,jnd;euygd,bcb 
