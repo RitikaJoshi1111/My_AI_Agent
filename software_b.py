@@ -3,3 +3,4 @@ def run(number):
     print(f"  [B - Subtract] {number} - 3 = {result}")
     return result
 cout<<done;
+prt
